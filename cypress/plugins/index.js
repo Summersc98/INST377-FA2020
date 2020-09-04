@@ -35,3 +35,5 @@ const htmlValidateConfig = {
 module.exports = (on) => {
   htmlvalidate.install(on, htmlValidateConfig);
 };
+
+
